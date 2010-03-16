@@ -1,0 +1,7 @@
+:BufOnly without an argument will unload all buffers but the current one. 
+
+:BufOnly with an argument will close all buffers but the supplied buffer name/number.
+ 
+install details
+Either :source it or put it in your plugin directory.
+
